@@ -28,9 +28,9 @@
 - インストールに問題が発生した場合は、Trailhead Playground Management モジュールの手順を参照
 
 ### 1.3 ERD確認作業
-- [ ] Product オブジェクトERDの確認
-- [ ] Schedule オブジェクトERDの確認
-- [ ] オブジェクト間のリレーションシップの理解
+- [x] Product オブジェクトERDの確認
+- [x] Schedule オブジェクトERDの確認
+- [x] オブジェクト間のリレーションシップの理解
 
 ### 1.4 Product Family設定変更作業
 #### 変更対象
@@ -94,15 +94,15 @@ Contract Number項目の削除（存在する場合）
 ## 2. 事前準備チェックリスト
 
 ### 2.1 環境準備
-- [ ] 新規Trailhead Playground作成完了
-- [ ] パッケージ（04tf4000001O5si）インストール完了
-- [ ] ERD確認完了
+- [x] 新規Trailhead Playground作成完了
+- [x] パッケージ（04tf4000001O5si）インストール完了
+- [x] ERD確認完了
 
 ### 2.2 設定変更
-- [ ] Product Family値の更新完了
-- [ ] Product ページレイアウト更新完了
-- [ ] Account ページレイアウト更新完了
-- [ ] Order ページレイアウト更新完了
+- [x] Product Family値の更新完了
+- [x] Product ページレイアウト更新完了
+- [x] Account ページレイアウト更新完了
+- [x] Order ページレイアウト更新完了
 
 ### 2.3 最終確認
 - [ ] 全ての設定変更が正常に反映されているか確認
