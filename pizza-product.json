@@ -1,0 +1,7 @@
+{
+  "Name": "Pizza",
+  "Family": "Entree",
+  "IsActive": true,
+  "Description": "New Millennium Delivery Pizza Product",
+  "QuantityUnitOfMeasure": "Each"
+}
